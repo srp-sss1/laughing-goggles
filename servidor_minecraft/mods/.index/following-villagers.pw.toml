@@ -1,0 +1,17 @@
+name = "Following Villagers"
+filename = "Following Villagers-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "888bc9877c6ded3bcdb86a20cd45e8a079517c81"
+
+[update]
+[update.curseforge]
+file-id = 2657182
+project-id = 310305
+
+[update.do_updates]
+do_updates = "true"

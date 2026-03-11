@@ -1,0 +1,17 @@
+name = "Spartan and Fire: RLCraft Edition"
+filename = "spartanfire_rlcraft-1.3.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/gaQ0NzqC/versions/rcEGtrCc/spartanfire_rlcraft-1.3.3.jar"
+hash-format = "sha512"
+hash = "8f645528e369653398d12510312811493269b38b2da2141b0f5446f94fc2c4a580ef50cf7360564a6e0c56d0536c136cf63e46b9b936ac9ba0e9a5f5b5b2d73c"
+
+[update]
+[update.modrinth]
+mod-id = "gaQ0NzqC"
+version = "rcEGtrCc"
+
+[update.do_updates]
+do_updates = "true"

@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "minecraft:items/stick"
+  },
+  "overrides": [
+    {
+      "predicate": {"bstweaker:always": 1},
+      "model": "mujmajnkraftsbettersurvival:item/itememeraldexamplehammer_normal"
+    }
+  ]
+}

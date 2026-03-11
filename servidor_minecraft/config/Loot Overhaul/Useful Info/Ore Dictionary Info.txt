@@ -1,0 +1,2182 @@
+## Ore Dictionary Info                      ##
+##############################################
+## In the form:                             ##
+## <ore dictionary entry>                   ##
+##     <item id registered> - <item damage> ##
+##     etc...                               ##
+##############################################
+Amethyst
+oresabovediamonds:amethyst - 0
+
+
+BlackOpal
+oresabovediamonds:black_opal - 0
+
+
+BlockDoor
+
+
+amethyst
+oresabovediamonds:amethyst - 0
+
+
+arrow
+minecraft:arrow - 0
+minecraft:spectral_arrow - 0
+minecraft:tipped_arrow - 0
+
+
+bakingEgg
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+bed
+minecraft:bed - 0
+minecraft:bed - 1
+minecraft:bed - 2
+minecraft:bed - 3
+minecraft:bed - 4
+minecraft:bed - 5
+minecraft:bed - 6
+minecraft:bed - 7
+minecraft:bed - 8
+minecraft:bed - 9
+minecraft:bed - 10
+minecraft:bed - 11
+minecraft:bed - 12
+minecraft:bed - 13
+minecraft:bed - 14
+minecraft:bed - 15
+
+
+blackOpal
+oresabovediamonds:black_opal - 0
+
+
+blockAdvancedAlloy
+
+
+blockAlubrass
+tconstruct:metal - 5
+
+
+blockAluminum
+
+
+blockAmethyst
+iceandfire:amethyst_block - 0
+oresabovediamonds:amethyst_block - 0
+
+
+blockArdite
+tconstruct:metal - 1
+
+
+blockBlackOpal
+oresabovediamonds:black_opal_block - 0
+
+
+blockBlutonium
+
+
+blockBone
+minecraft:bone_block - 0
+
+
+blockBrass
+
+
+blockBronze
+
+
+blockCactus
+minecraft:cactus - 0
+minecraft:cactus - any
+
+
+blockCandle
+quark:candle - any
+
+
+blockCharcoal
+quark:charcoal_block - 0
+
+
+blockChrome
+
+
+blockClay
+minecraft:clay - any
+
+
+blockCoal
+minecraft:coal_block - 0
+
+
+blockCobalt
+tconstruct:metal - 0
+
+
+blockConstantan
+
+
+blockCopper
+iceandfire:copper_block - 0
+
+
+blockCyanite
+
+
+blockDiamond
+minecraft:diamond_block - 0
+
+
+blockEbonyPsi
+
+
+blockElectrum
+
+
+blockElectrumFlux
+
+
+blockElvenElementium
+
+
+blockEmerald
+minecraft:emerald_block - 0
+
+
+blockEnderium
+
+
+blockGlass
+minecraft:glass - 0
+minecraft:stained_glass - any
+tconstruct:clear_glass - any
+tconstruct:clear_stained_glass - any
+
+
+blockGlassBlack
+minecraft:stained_glass - 15
+tconstruct:clear_stained_glass - 15
+
+
+blockGlassBlue
+minecraft:stained_glass - 11
+tconstruct:clear_stained_glass - 11
+
+
+blockGlassBrown
+minecraft:stained_glass - 12
+tconstruct:clear_stained_glass - 12
+
+
+blockGlassColorless
+minecraft:glass - 0
+
+
+blockGlassCyan
+minecraft:stained_glass - 9
+tconstruct:clear_stained_glass - 9
+
+
+blockGlassGray
+minecraft:stained_glass - 7
+tconstruct:clear_stained_glass - 7
+
+
+blockGlassGreen
+minecraft:stained_glass - 13
+tconstruct:clear_stained_glass - 13
+
+
+blockGlassLightBlue
+minecraft:stained_glass - 3
+tconstruct:clear_stained_glass - 3
+
+
+blockGlassLightGray
+minecraft:stained_glass - 8
+tconstruct:clear_stained_glass - 8
+
+
+blockGlassLime
+minecraft:stained_glass - 5
+tconstruct:clear_stained_glass - 5
+
+
+blockGlassMagenta
+minecraft:stained_glass - 2
+tconstruct:clear_stained_glass - 2
+
+
+blockGlassOrange
+minecraft:stained_glass - 1
+tconstruct:clear_stained_glass - 1
+
+
+blockGlassPink
+minecraft:stained_glass - 6
+tconstruct:clear_stained_glass - 6
+
+
+blockGlassPurple
+minecraft:stained_glass - 10
+tconstruct:clear_stained_glass - 10
+
+
+blockGlassRed
+minecraft:stained_glass - 14
+tconstruct:clear_stained_glass - 14
+
+
+blockGlassWhite
+minecraft:stained_glass - 0
+tconstruct:clear_stained_glass - 0
+
+
+blockGlassYellow
+minecraft:stained_glass - 4
+tconstruct:clear_stained_glass - 4
+
+
+blockGold
+minecraft:gold_block - 0
+
+
+blockInvar
+
+
+blockIridium
+
+
+blockIron
+minecraft:iron_block - 0
+
+
+blockIvoryPsi
+
+
+blockKnightslime
+tconstruct:metal - 3
+
+
+blockLapis
+minecraft:lapis_block - 0
+
+
+blockLead
+
+
+blockLudicrite
+
+
+blockLumium
+
+
+blockMagma
+minecraft:magma - 0
+
+
+blockManasteel
+
+
+blockManyullyn
+tconstruct:metal - 2
+
+
+blockMetal
+minecraft:iron_block - 0
+minecraft:gold_block - 0
+
+
+blockMithril
+
+
+blockMossy
+minecraft:mossy_cobblestone - any
+minecraft:stonebrick - 1
+
+
+blockNetherWart
+minecraft:nether_wart_block - 0
+
+
+blockNetherite
+futuremc:netherite_block - 0
+
+
+blockNickel
+
+
+blockOsmium
+
+
+blockPigiron
+tconstruct:metal - 4
+
+
+blockPlatinum
+
+
+blockPrismarine
+minecraft:prismarine - 0
+quark:elder_prismarine - 0
+
+
+blockPrismarineBrick
+minecraft:prismarine - 1
+quark:elder_prismarine - 1
+
+
+blockPrismarineDark
+minecraft:prismarine - 2
+quark:elder_prismarine - 2
+
+
+blockPrismarineElder
+quark:elder_prismarine - 0
+
+
+blockPrismarineElderBrick
+quark:elder_prismarine - 1
+
+
+blockPrismarineElderDark
+quark:elder_prismarine - 2
+
+
+blockPsi
+
+
+blockQuartz
+minecraft:quartz_block - 0
+
+
+blockRedstone
+minecraft:redstone_block - 0
+
+
+blockRefinedGlowstone
+
+
+blockRefinedIron
+
+
+blockRefinedObsidian
+
+
+blockRuby
+iceandfire:ruby_block - 0
+
+
+blockSapphire
+iceandfire:sapphire_block - 0
+
+
+blockSeared
+tconstruct:seared - any
+
+
+blockSignalum
+
+
+blockSilver
+iceandfire:silver_block - 0
+
+
+blockSlime
+minecraft:slime - 0
+minecraft:slime - any
+tconstruct:slime - any
+quark:color_slime - any
+
+
+blockSlimeBlue
+tconstruct:slime - 1
+quark:color_slime - 1
+
+
+blockSlimeCongealed
+tconstruct:slime_congealed - any
+
+
+blockSlimeCyan
+quark:color_slime - 2
+
+
+blockSlimeDirt
+tconstruct:slime_dirt - any
+
+
+blockSlimeGrass
+tconstruct:slime_grass - any
+
+
+blockSlimeGreen
+tconstruct:slime - 0
+minecraft:slime - 0
+
+
+blockSlimeMagenta
+quark:color_slime - 3
+
+
+blockSlimeRed
+tconstruct:slime - 3
+quark:color_slime - 0
+
+
+blockSlimeYellow
+quark:color_slime - 4
+
+
+blockSteel
+
+
+blockTerrasteel
+
+
+blockTin
+
+
+blockTitanium
+
+
+blockTungsten
+
+
+blockWool
+
+
+blockYellorium
+
+
+blockZinc
+
+
+bone
+minecraft:bone - 0
+
+
+boneDragon
+iceandfire:dragonbone - 0
+
+
+boneWither
+iceandfire:witherbone - 0
+
+
+boneWithered
+tconstruct:materials - 17
+bhc:wither_bone - 0
+iceandfire:witherbone - 0
+
+
+bookshelf
+minecraft:bookshelf - 0
+quark:custom_bookshelf - any
+
+
+bookshelfAcacia
+quark:custom_bookshelf - 3
+
+
+bookshelfBirch
+quark:custom_bookshelf - 1
+
+
+bookshelfDarkOak
+quark:custom_bookshelf - 4
+
+
+bookshelfJungle
+quark:custom_bookshelf - 2
+
+
+bookshelfOak
+minecraft:bookshelf - 0
+
+
+bookshelfSpruce
+quark:custom_bookshelf - 0
+
+
+buttonWood
+minecraft:wooden_button - 0
+quark:spruce_button - 0
+quark:birch_button - 0
+quark:jungle_button - 0
+quark:acacia_button - 0
+quark:dark_oak_button - 0
+
+
+cast
+tconstruct:cast - any
+tconstruct:cast_custom - any
+
+
+chest
+minecraft:chest - 0
+minecraft:ender_chest - 0
+minecraft:trapped_chest - 0
+minecraft:white_shulker_box - 0
+minecraft:orange_shulker_box - 0
+minecraft:magenta_shulker_box - 0
+minecraft:light_blue_shulker_box - 0
+minecraft:yellow_shulker_box - 0
+minecraft:lime_shulker_box - 0
+minecraft:pink_shulker_box - 0
+minecraft:gray_shulker_box - 0
+minecraft:silver_shulker_box - 0
+minecraft:cyan_shulker_box - 0
+minecraft:purple_shulker_box - 0
+minecraft:blue_shulker_box - 0
+minecraft:brown_shulker_box - 0
+minecraft:green_shulker_box - 0
+minecraft:red_shulker_box - 0
+minecraft:black_shulker_box - 0
+
+
+chestEnder
+minecraft:ender_chest - 0
+
+
+chestTrapped
+minecraft:trapped_chest - 0
+
+
+chestWood
+minecraft:chest - 0
+
+
+clay
+minecraft:clay_ball - any
+
+
+cobblestone
+minecraft:cobblestone - 0
+
+
+craftingTableWood
+minecraft:crafting_table - 0
+
+
+cropBamboo
+futuremc:bamboo - 0
+
+
+cropBeetroot
+minecraft:beetroot - 0
+
+
+cropCarrot
+minecraft:carrot - 0
+
+
+cropNetherWart
+minecraft:nether_wart - 0
+
+
+cropPotato
+minecraft:potato - 0
+
+
+cropSweetBerry
+futuremc:sweet_berries - 0
+
+
+cropWheat
+minecraft:wheat - 0
+
+
+crystalCertusQuartz
+
+
+crystalFluix
+
+
+denseoreArdite
+
+
+denseoreCobalt
+
+
+denseoreCopper
+
+
+denseoreGold
+
+
+denseoreIron
+
+
+denseoreKnightslime
+
+
+denseoreManyullyn
+
+
+denseorePigiron
+
+
+denseoreSilver
+
+
+desertMyrmexEgg
+iceandfire:myrmex_desert_egg - 0
+
+
+dirt
+minecraft:dirt - 0
+minecraft:dirt - any
+
+
+doorWood
+minecraft:acacia_door - 0
+minecraft:birch_door - 0
+minecraft:dark_oak_door - 0
+minecraft:wooden_door - 0
+minecraft:jungle_door - 0
+minecraft:spruce_door - 0
+
+
+dragonEgg
+iceandfire:dragonegg_red - 0
+iceandfire:dragonegg_green - 0
+iceandfire:dragonegg_bronze - 0
+iceandfire:dragonegg_gray - 0
+iceandfire:dragonegg_blue - 0
+iceandfire:dragonegg_white - 0
+iceandfire:dragonegg_sapphire - 0
+iceandfire:dragonegg_silver - 0
+iceandfire:dragonegg_electric - 0
+iceandfire:dragonegg_amethyst - 0
+iceandfire:dragonegg_copper - 0
+iceandfire:dragonegg_black - 0
+
+
+dragonScales
+iceandfire:dragonscales_red - 0
+iceandfire:dragonscales_green - 0
+iceandfire:dragonscales_bronze - 0
+iceandfire:dragonscales_gray - 0
+iceandfire:dragonscales_blue - 0
+iceandfire:dragonscales_white - 0
+iceandfire:dragonscales_sapphire - 0
+iceandfire:dragonscales_silver - 0
+iceandfire:dragonscales_electric - 0
+iceandfire:dragonscales_amethyst - 0
+iceandfire:dragonscales_copper - 0
+iceandfire:dragonscales_black - 0
+
+
+dragonSkull
+iceandfire:dragon_skull - any
+
+
+dustArdite
+
+
+dustCobalt
+
+
+dustCopper
+
+
+dustFairy
+wings:fairy_dust - 0
+
+
+dustGlowing
+xat:glowing_powder - 0
+
+
+dustGlowstone
+minecraft:glowstone_dust - 0
+
+
+dustGold
+
+
+dustIron
+
+
+dustKnightslime
+
+
+dustManyullyn
+
+
+dustPigiron
+
+
+dustPrismarine
+minecraft:prismarine_crystals - 0
+
+
+dustRedstone
+minecraft:redstone - 0
+
+
+dustSilver
+
+
+dustSulfur
+
+
+dye
+minecraft:dye - any
+
+
+dyeBlack
+minecraft:dye - 0
+futuremc:dye - 3
+quark:root_dye - 1
+
+
+dyeBlue
+minecraft:dye - 4
+futuremc:dye - 1
+quark:root_dye - 0
+
+
+dyeBrown
+minecraft:dye - 3
+futuremc:dye - 2
+
+
+dyeCyan
+minecraft:dye - 6
+
+
+dyeGray
+minecraft:dye - 8
+
+
+dyeGreen
+minecraft:dye - 2
+
+
+dyeLightBlue
+minecraft:dye - 12
+
+
+dyeLightGray
+minecraft:dye - 7
+
+
+dyeLime
+minecraft:dye - 10
+
+
+dyeMagenta
+minecraft:dye - 13
+
+
+dyeOrange
+minecraft:dye - 14
+
+
+dyePink
+minecraft:dye - 9
+
+
+dyePurple
+minecraft:dye - 5
+
+
+dyeRed
+minecraft:dye - 1
+
+
+dyeWhite
+minecraft:dye - 15
+futuremc:dye - 0
+quark:root_dye - 2
+
+
+dyeYellow
+minecraft:dye - 11
+
+
+egg
+minecraft:egg - 0
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+enderpearl
+minecraft:ender_pearl - 0
+
+
+endstone
+minecraft:end_stone - 0
+
+
+feather
+minecraft:feather - 0
+
+
+fenceGateWood
+minecraft:fence_gate - 0
+minecraft:spruce_fence_gate - 0
+minecraft:birch_fence_gate - 0
+minecraft:jungle_fence_gate - 0
+minecraft:dark_oak_fence_gate - 0
+minecraft:acacia_fence_gate - 0
+
+
+fenceWood
+minecraft:fence - 0
+minecraft:spruce_fence - 0
+minecraft:birch_fence - 0
+minecraft:jungle_fence - 0
+minecraft:dark_oak_fence - 0
+minecraft:acacia_fence - 0
+
+
+fireDragonScaleBlock
+iceandfire:dragonscales_red_pile - 0
+iceandfire:dragonscales_green_pile - 0
+iceandfire:dragonscales_bronze_pile - 0
+iceandfire:dragonscales_gray_pile - 0
+
+
+fish
+minecraft:fish - any
+
+
+foodMeat
+minecraft:chicken - 0
+minecraft:cooked_chicken - 0
+minecraft:beef - 0
+minecraft:cooked_beef - 0
+minecraft:porkchop - 0
+minecraft:cooked_porkchop - 0
+minecraft:mutton - 0
+minecraft:cooked_mutton - 0
+minecraft:rabbit - 0
+minecraft:cooked_rabbit - 0
+
+
+foodSimpleEgg
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+gaiaIngot
+
+
+gearArdite
+
+
+gearCobalt
+
+
+gearCopper
+
+
+gearGold
+
+
+gearIron
+
+
+gearKnightslime
+
+
+gearManyullyn
+
+
+gearPigiron
+
+
+gearSilver
+
+
+gemAmethyst
+iceandfire:amethyst_gem - 0
+wings:amethyst - 0
+oresabovediamonds:amethyst - 0
+
+
+gemBiotite
+
+
+gemBlackOpal
+oresabovediamonds:black_opal - 0
+
+
+gemDiamond
+minecraft:diamond - 0
+
+
+gemEmerald
+minecraft:emerald - 0
+
+
+gemEnderBiotite
+quark:biotite - 0
+
+
+gemGlowing
+xat:glowing_gem - 0
+
+
+gemLapis
+minecraft:dye - 4
+
+
+gemPeridot
+
+
+gemPrismarine
+minecraft:prismarine_shard - 0
+
+
+gemPsi
+
+
+gemQuartz
+minecraft:quartz - 0
+
+
+gemRedGarnet
+
+
+gemRuby
+iceandfire:ruby_gem - 0
+
+
+gemSapphire
+iceandfire:sapphire_gem - 0
+
+
+gemYellowGarnet
+
+
+glowstone
+minecraft:glowstone - 0
+
+
+grass
+minecraft:grass - 0
+
+
+gravel
+minecraft:gravel - 0
+
+
+gunpowder
+minecraft:gunpowder - 0
+
+
+heartDragon
+iceandfire:fire_dragon_heart - 0
+iceandfire:ice_dragon_heart - 0
+iceandfire:lightning_dragon_heart - 0
+
+
+hookPudge
+adhooks:pudge_hook - 0
+
+
+hookSpear
+adhooks:spear_hook - 0
+
+
+hookWeb
+adhooks:web_hook - 0
+
+
+hopper
+minecraft:hopper - 0
+
+
+iceDragonScaleBlock
+iceandfire:dragonscales_blue_pile - 0
+iceandfire:dragonscales_white_pile - 0
+iceandfire:dragonscales_sapphire_pile - 0
+iceandfire:dragonscales_silver_pile - 0
+
+
+ingotAdvancedAlloy
+
+
+ingotAlubrass
+tconstruct:ingots - 5
+
+
+ingotAluminium
+
+
+ingotAluminum
+
+
+ingotAncientDebris
+futuremc:netherite_scrap - 0
+
+
+ingotArdite
+tconstruct:ingots - 1
+
+
+ingotBlutonium
+
+
+ingotBrass
+
+
+ingotBrick
+minecraft:brick - 0
+
+
+ingotBrickNether
+minecraft:netherbrick - 0
+
+
+ingotBrickSeared
+tconstruct:materials - 0
+
+
+ingotBronze
+
+
+ingotChrome
+
+
+ingotCobalt
+tconstruct:ingots - 0
+
+
+ingotConstantan
+
+
+ingotCopper
+iceandfire:copper_ingot - 0
+
+
+ingotCyanite
+
+
+ingotDesertChitin
+iceandfire:myrmex_desert_chitin - 0
+
+
+ingotDragonbone
+iceandfire:dragonbone - 0
+
+
+ingotEbonyPsi
+
+
+ingotElectrum
+
+
+ingotElectrumFlux
+
+
+ingotElvenElementium
+
+
+ingotEnderium
+
+
+ingotGlowing
+xat:glowing_ingot - 0
+
+
+ingotGold
+minecraft:gold_ingot - 0
+
+
+ingotInvar
+
+
+ingotIridium
+
+
+ingotIron
+minecraft:iron_ingot - 0
+
+
+ingotIvoryPsi
+
+
+ingotJungleChitin
+iceandfire:myrmex_jungle_chitin - 0
+
+
+ingotKnightslime
+tconstruct:ingots - 3
+
+
+ingotLead
+
+
+ingotLudicrite
+
+
+ingotLumium
+
+
+ingotManasteel
+
+
+ingotManyullyn
+tconstruct:ingots - 2
+
+
+ingotMithril
+
+
+ingotNetherite
+futuremc:netherite_ingot - 0
+
+
+ingotNickel
+
+
+ingotOsmium
+
+
+ingotPigiron
+tconstruct:ingots - 4
+
+
+ingotPlatinum
+
+
+ingotPsi
+
+
+ingotRefinedGlowstone
+
+
+ingotRefinedIron
+
+
+ingotRefinedObsidian
+
+
+ingotSignalum
+
+
+ingotSilver
+iceandfire:silver_ingot - 0
+
+
+ingotSteel
+
+
+ingotTerrasteel
+
+
+ingotTin
+
+
+ingotTitanium
+
+
+ingotTungsten
+
+
+ingotYellorium
+
+
+ingotZinc
+
+
+ingredientEgg
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+itemHeart
+bhc:red_heart - 0
+bhc:yellow_heart - 0
+bhc:green_heart - 0
+bhc:blue_heart - 0
+
+
+itemRubber
+
+
+jetpackTier-1
+ironjetpacks:creative_jetpack - 0
+
+
+jetpackTier0
+ironjetpacks:wood_jetpack - 0
+
+
+jetpackTier1
+ironjetpacks:copper_jetpack - 0
+ironjetpacks:stone_jetpack - 0
+
+
+jetpackTier2
+ironjetpacks:iron_jetpack - 0
+ironjetpacks:silver_jetpack - 0
+ironjetpacks:bronze_jetpack - 0
+
+
+jetpackTier3
+ironjetpacks:electrum_jetpack - 0
+ironjetpacks:invar_jetpack - 0
+ironjetpacks:steel_jetpack - 0
+ironjetpacks:gold_jetpack - 0
+
+
+jetpackTier4
+ironjetpacks:diamond_jetpack - 0
+ironjetpacks:platinum_jetpack - 0
+
+
+jetpackTier5
+ironjetpacks:emerald_jetpack - 0
+
+
+jungleMyrmexEgg
+iceandfire:myrmex_jungle_egg - 0
+
+
+launcherPrototype
+adhooks:prototype_launcher - 0
+
+
+launcherPudge
+adhooks:pudge_launcher - 0
+
+
+launcherSpear
+adhooks:spear_launcher - 0
+
+
+launcherWeb
+adhooks:web_launcher - 0
+
+
+leather
+minecraft:leather - 0
+
+
+lightningDragonScaleBlock
+iceandfire:dragonscales_electric_pile - 0
+iceandfire:dragonscales_amethyst_pile - 0
+iceandfire:dragonscales_copper_pile - 0
+iceandfire:dragonscales_black_pile - 0
+
+
+lilypad
+minecraft:waterlily - 0
+
+
+listAllEgg
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+listAllmeatcooked
+minecraft:cooked_beef - any
+minecraft:cooked_chicken - any
+minecraft:cooked_fish - any
+minecraft:cooked_mutton - any
+minecraft:cooked_porkchop - any
+minecraft:cooked_rabbit - any
+
+
+listAllmeatraw
+
+
+logWood
+minecraft:log - any
+minecraft:log2 - any
+futuremc:stripped_acacia_log - 0
+futuremc:stripped_jungle_log - 0
+futuremc:stripped_birch_log - 0
+futuremc:stripped_oak_log - 0
+futuremc:stripped_spruce_log - 0
+futuremc:stripped_dark_oak_log - 0
+futuremc:stripped_acacia_wood - 0
+futuremc:stripped_jungle_wood - 0
+futuremc:stripped_birch_wood - 0
+futuremc:stripped_oak_wood - 0
+futuremc:stripped_spruce_wood - 0
+futuremc:stripped_dark_oak_wood - 0
+futuremc:acacia_wood - 0
+futuremc:jungle_wood - 0
+futuremc:birch_wood - 0
+futuremc:oak_wood - 0
+futuremc:spruce_wood - 0
+futuremc:dark_oak_wood - 0
+
+
+materialStoneTool
+minecraft:flint - 0
+minecraft:stone - 0
+minecraft:stone - 1
+minecraft:stone - 3
+minecraft:stone - 5
+minecraft:cobblestone - 0
+
+
+mushroomAny
+minecraft:red_mushroom - 0
+minecraft:brown_mushroom - 0
+quark:glowshroom - 0
+
+
+mythicalSkull
+iceandfire:dragon_skull - any
+iceandfire:hippogryph_skull - 0
+iceandfire:cyclops_skull - 0
+iceandfire:cockatrice_skull - 0
+iceandfire:stymphalian_skull - 0
+iceandfire:troll_skull - 0
+iceandfire:amphithere_skull - 0
+iceandfire:seaserpent_skull - 0
+iceandfire:hydra_skull - 0
+
+
+netherStar
+minecraft:nether_star - 0
+
+
+netherrack
+minecraft:netherrack - 0
+minecraft:netherrack - any
+
+
+nocubessrpsurvivalmeat_for_buglins
+
+
+nuggetAlubrass
+tconstruct:nuggets - 5
+
+
+nuggetArdite
+tconstruct:nuggets - 1
+
+
+nuggetBronze
+
+
+nuggetCobalt
+tconstruct:nuggets - 0
+
+
+nuggetCopper
+iceandfire:copper_nugget - 0
+
+
+nuggetElectrum
+
+
+nuggetGold
+minecraft:gold_nugget - 0
+
+
+nuggetIron
+minecraft:iron_nugget - 0
+
+
+nuggetKnightslime
+tconstruct:nuggets - 3
+
+
+nuggetLead
+
+
+nuggetManyullyn
+tconstruct:nuggets - 2
+
+
+nuggetPigiron
+tconstruct:nuggets - 4
+
+
+nuggetSilver
+iceandfire:silver_nugget - 0
+
+
+nuggetSteel
+
+
+objectEgg
+iceandfire:hippogryph_egg - any
+iceandfire:iceandfire.deathworm_egg - any
+iceandfire:myrmex_jungle_egg - any
+iceandfire:myrmex_desert_egg - any
+
+
+obsidian
+minecraft:obsidian - 0
+minecraft:obsidian - any
+
+
+oreAmethyst
+iceandfire:amethyst_ore - 0
+wings:amethyst_ore - 0
+oresabovediamonds:amethyst_ore - 0
+oresabovediamonds:nether_amethyst_ore - 0
+oresabovediamonds:end_amethyst_ore - 0
+
+
+oreAncientDebris
+futuremc:ancient_debris - 0
+
+
+oreArdite
+tconstruct:ore - 1
+
+
+oreBlackOpal
+oresabovediamonds:black_opal_ore - 0
+oresabovediamonds:nether_black_opal_ore - 0
+oresabovediamonds:end_black_opal_ore - 0
+
+
+oreCoal
+minecraft:coal_ore - 0
+
+
+oreCobalt
+tconstruct:ore - 0
+
+
+oreCopper
+iceandfire:copper_ore - 0
+
+
+oreDiamond
+minecraft:diamond_ore - 0
+
+
+oreEmerald
+minecraft:emerald_ore - 0
+
+
+oreGold
+minecraft:gold_ore - 0
+
+
+oreIron
+minecraft:iron_ore - 0
+
+
+oreKnightslime
+
+
+oreLapis
+minecraft:lapis_ore - 0
+
+
+oreManyullyn
+
+
+oreNetherArdite
+
+
+oreNetherCobalt
+
+
+oreNetherCopper
+
+
+oreNetherGold
+
+
+oreNetherIron
+
+
+oreNetherKnightslime
+
+
+oreNetherManyullyn
+
+
+oreNetherPigiron
+
+
+oreNetherSilver
+
+
+oreNuggetArdite
+
+
+oreNuggetCobalt
+
+
+oreNuggetCopper
+
+
+oreNuggetGold
+
+
+oreNuggetIron
+
+
+oreNuggetKnightslime
+
+
+oreNuggetManyullyn
+
+
+oreNuggetPigiron
+
+
+oreNuggetSilver
+
+
+orePigiron
+
+
+orePoorArdite
+
+
+orePoorCobalt
+
+
+orePoorCopper
+
+
+orePoorGold
+
+
+orePoorIron
+
+
+orePoorKnightslime
+
+
+orePoorManyullyn
+
+
+orePoorPigiron
+
+
+orePoorSilver
+
+
+oreQuartz
+minecraft:quartz_ore - 0
+
+
+oreRedstone
+minecraft:redstone_ore - 0
+
+
+oreRuby
+iceandfire:ruby_ore - 0
+
+
+oreSapphire
+iceandfire:sapphire_ore - 0
+
+
+oreSilver
+iceandfire:silver_ore - 0
+
+
+paneGlass
+minecraft:glass_pane - 0
+minecraft:stained_glass_pane - any
+
+
+paneGlassBlack
+minecraft:stained_glass_pane - 15
+
+
+paneGlassBlue
+minecraft:stained_glass_pane - 11
+
+
+paneGlassBrown
+minecraft:stained_glass_pane - 12
+
+
+paneGlassColorless
+minecraft:glass_pane - 0
+
+
+paneGlassCyan
+minecraft:stained_glass_pane - 9
+
+
+paneGlassGray
+minecraft:stained_glass_pane - 7
+
+
+paneGlassGreen
+minecraft:stained_glass_pane - 13
+
+
+paneGlassLightBlue
+minecraft:stained_glass_pane - 3
+
+
+paneGlassLightGray
+minecraft:stained_glass_pane - 8
+
+
+paneGlassLime
+minecraft:stained_glass_pane - 5
+
+
+paneGlassMagenta
+minecraft:stained_glass_pane - 2
+
+
+paneGlassOrange
+minecraft:stained_glass_pane - 1
+
+
+paneGlassPink
+minecraft:stained_glass_pane - 6
+
+
+paneGlassPurple
+minecraft:stained_glass_pane - 10
+
+
+paneGlassRed
+minecraft:stained_glass_pane - 14
+
+
+paneGlassWhite
+minecraft:stained_glass_pane - 0
+
+
+paneGlassYellow
+minecraft:stained_glass_pane - 4
+
+
+paper
+minecraft:paper - 0
+
+
+partBinding
+tconstruct:binding - any
+
+
+partPickHead
+tconstruct:pick_head - any
+
+
+partToolRod
+tconstruct:tool_rod - any
+
+
+pattern
+tconstruct:pattern - any
+
+
+plankStained
+quark:stained_planks - any
+quark:vertical_stained_planks - any
+
+
+plankWood
+minecraft:planks - any
+quark:stained_planks - any
+quark:vertical_planks - any
+quark:vertical_stained_planks - any
+nocubessrpsurvival:planksgreen - 0
+nocubessrpsurvival:plankscyan - 0
+nocubessrpsurvival:plankspurple - 0
+
+
+plateArdite
+
+
+plateCobalt
+
+
+plateCopper
+
+
+plateGold
+
+
+plateIron
+
+
+plateKnightslime
+
+
+plateManyullyn
+
+
+platePigiron
+
+
+plateSilver
+
+
+pressurePlateWood
+minecraft:wooden_pressure_plate - 0
+quark:spruce_pressure_plate - 0
+quark:birch_pressure_plate - 0
+quark:jungle_pressure_plate - 0
+quark:acacia_pressure_plate - 0
+quark:dark_oak_pressure_plate - 0
+
+
+prismarine
+minecraft:prismarine - any
+
+
+rail
+minecraft:rail - 0
+minecraft:activator_rail - 0
+minecraft:detector_rail - 0
+minecraft:golden_rail - 0
+
+
+record
+minecraft:record_13 - 0
+minecraft:record_cat - 0
+minecraft:record_blocks - 0
+minecraft:record_chirp - 0
+minecraft:record_far - 0
+minecraft:record_mall - 0
+minecraft:record_mellohi - 0
+minecraft:record_stal - 0
+minecraft:record_strad - 0
+minecraft:record_ward - 0
+minecraft:record_11 - 0
+minecraft:record_wait - 0
+
+
+ringIron
+bountifulbaubles:ringiron - 0
+
+
+rodStone
+tconstruct:stone_stick - any
+
+
+sand
+minecraft:sand - any
+
+
+sandstone
+minecraft:sandstone - any
+minecraft:red_sandstone - any
+
+
+scaleDragonEnder
+bountifulbaubles:enderdragonscale - 0
+quark:enderdragon_scale - 0
+
+
+seaSerpentScales
+iceandfire:sea_serpent_scales_blue - 0
+iceandfire:sea_serpent_scales_bronze - 0
+iceandfire:sea_serpent_scales_deepblue - 0
+iceandfire:sea_serpent_scales_green - 0
+iceandfire:sea_serpent_scales_purple - 0
+iceandfire:sea_serpent_scales_red - 0
+iceandfire:sea_serpent_scales_teal - 0
+
+
+securitycraftReinforcedFence
+securitycraft:reinforced_oak_fence - 0
+securitycraft:reinforced_spruce_fence - 0
+securitycraft:reinforced_birch_fence - 0
+securitycraft:reinforced_jungle_fence - 0
+securitycraft:reinforced_dark_oak_fence - 0
+securitycraft:reinforced_acacia_fence - 0
+
+
+securitycraftReinforcedFenceGate
+securitycraft:reinforced_oak_fence_gate - 0
+securitycraft:reinforced_spruce_fence_gate - 0
+securitycraft:reinforced_birch_fence_gate - 0
+securitycraft:reinforced_jungle_fence_gate - 0
+securitycraft:reinforced_dark_oak_fence_gate - 0
+securitycraft:reinforced_acacia_fence_gate - 0
+
+
+seed
+minecraft:wheat_seeds - 0
+minecraft:pumpkin_seeds - 0
+minecraft:melon_seeds - 0
+minecraft:beetroot_seeds - 0
+
+
+seedSweetBerry
+futuremc:sweet_berries - 0
+
+
+shardGlass
+quark:glass_shards - 0
+
+
+shulkerBox
+minecraft:white_shulker_box - 0
+minecraft:orange_shulker_box - 0
+minecraft:magenta_shulker_box - 0
+minecraft:light_blue_shulker_box - 0
+minecraft:yellow_shulker_box - 0
+minecraft:lime_shulker_box - 0
+minecraft:pink_shulker_box - 0
+minecraft:gray_shulker_box - 0
+minecraft:silver_shulker_box - 0
+minecraft:cyan_shulker_box - 0
+minecraft:purple_shulker_box - 0
+minecraft:blue_shulker_box - 0
+minecraft:brown_shulker_box - 0
+minecraft:green_shulker_box - 0
+minecraft:red_shulker_box - 0
+minecraft:black_shulker_box - 0
+
+
+shulkerShell
+minecraft:shulker_shell - 0
+
+
+slabWood
+minecraft:wooden_slab - any
+
+
+slimeball
+minecraft:slime_ball - 0
+tconstruct:edible - 1
+tconstruct:edible - 2
+tconstruct:edible - 3
+tconstruct:edible - 4
+tconstruct:edible - 5
+quark:slime_bucket - 0
+
+
+slimeballBlood
+tconstruct:edible - 3
+
+
+slimeballBlue
+tconstruct:edible - 1
+
+
+slimeballGreen
+minecraft:slime_ball - any
+
+
+slimeballMagma
+tconstruct:edible - 4
+
+
+slimeballPurple
+tconstruct:edible - 2
+
+
+slimecrystal
+tconstruct:materials - 9
+tconstruct:materials - 10
+tconstruct:materials - 11
+
+
+slimecrystalBlue
+tconstruct:materials - 10
+
+
+slimecrystalGreen
+tconstruct:materials - 9
+
+
+slimecrystalMagma
+tconstruct:materials - 11
+
+
+spartanweaponry:arrow_quivers
+spartanweaponry:quiver_arrow - 0
+spartanweaponry:quiver_arrow_moderate - 0
+spartanweaponry:quiver_arrow_heavy - 0
+
+
+spartanweaponry:arrows
+minecraft:arrow - 0
+spartanweaponry:arrow_wood - 0
+spartanweaponry:arrow_iron - 0
+spartanweaponry:arrow_diamond - 0
+
+
+spartanweaponry:bolt_quivers
+spartanweaponry:quiver_bolt - 0
+spartanweaponry:quiver_bolt_moderate - 0
+spartanweaponry:quiver_bolt_heavy - 0
+
+
+spartanweaponry:bolts
+spartanweaponry:bolt - 0
+spartanweaponry:bolt_spectral - 0
+spartanweaponry:bolt_diamond - 0
+
+
+spartanweaponry:quivers
+spartanweaponry:quiver_arrow - 0
+spartanweaponry:quiver_arrow_moderate - 0
+spartanweaponry:quiver_arrow_heavy - 0
+spartanweaponry:quiver_bolt - 0
+spartanweaponry:quiver_bolt_moderate - 0
+spartanweaponry:quiver_bolt_heavy - 0
+
+
+stairWood
+minecraft:oak_stairs - 0
+minecraft:spruce_stairs - 0
+minecraft:birch_stairs - 0
+minecraft:jungle_stairs - 0
+minecraft:acacia_stairs - 0
+minecraft:dark_oak_stairs - 0
+
+
+stickTreatedWood
+
+
+stickWood
+minecraft:stick - 0
+
+
+stone
+minecraft:stone - 0
+
+
+stoneAndesite
+minecraft:stone - 5
+
+
+stoneAndesitePolished
+minecraft:stone - 6
+
+
+stoneBasalt
+quark:basalt - 0
+
+
+stoneBasaltPolished
+quark:basalt - 1
+
+
+stoneBrimstone
+quark:biome_cobblestone - 0
+
+
+stoneBrimstonePolished
+quark:biome_brick - 0
+
+
+stoneDiorite
+minecraft:stone - 3
+
+
+stoneDioritePolished
+minecraft:stone - 4
+
+
+stoneGranite
+minecraft:stone - 1
+
+
+stoneGranitePolished
+minecraft:stone - 2
+
+
+stoneJasper
+quark:jasper - 0
+
+
+stoneJasperPolished
+quark:jasper - 1
+
+
+stoneLimestone
+quark:limestone - 0
+
+
+stoneLimestonePolished
+quark:limestone - 1
+
+
+stoneMarble
+quark:marble - 0
+
+
+stoneMarblePolished
+quark:marble - 1
+
+
+stonePermafrost
+quark:biome_cobblestone - 1
+
+
+stonePermafrostPolished
+quark:biome_cobblestone - 1
+
+
+stonePolished
+quark:polished_stone - 0
+
+
+stoneSlate
+quark:slate - 0
+
+
+stoneSlatePolished
+quark:slate - 1
+
+
+string
+minecraft:string - 0
+
+
+sugar
+
+
+sugarcane
+minecraft:reeds - 0
+
+
+tallow
+quark:tallow - 0
+
+
+torch
+minecraft:torch - 0
+tconstruct:stone_torch - any
+
+
+trapdoorWood
+minecraft:trapdoor - any
+futuremc:acacia_trapdoor - 0
+futuremc:jungle_trapdoor - 0
+futuremc:birch_trapdoor - 0
+futuremc:spruce_trapdoor - 0
+futuremc:dark_oak_trapdoor - 0
+minecraft:trapdoor - 0
+quark:spruce_trapdoor - 0
+quark:birch_trapdoor - 0
+quark:jungle_trapdoor - 0
+quark:acacia_trapdoor - 0
+quark:dark_oak_trapdoor - 0
+
+
+treeLeaves
+minecraft:leaves - any
+minecraft:leaves2 - any
+tconstruct:slime_leaves - any
+quark:variant_leaves - any
+
+
+treeSapling
+minecraft:sapling - any
+tconstruct:slime_sapling - any
+quark:variant_sapling - any
+
+
+vine
+minecraft:vine - 0
+minecraft:vine - any
+tconstruct:slime_vine_blue - any
+tconstruct:slime_vine_blue_mid - any
+tconstruct:slime_vine_blue_end - any
+tconstruct:slime_vine_purple - any
+tconstruct:slime_vine_purple_mid - any
+tconstruct:slime_vine_purple_end - any
+
+
+voodooPoppetProtectionDarkness
+
+
+wool
+minecraft:wool - any
+
+
+woolBlack
+minecraft:wool - 15
+
+
+woolBlock
+minecraft:wool - any
+
+
+woolBlue
+minecraft:wool - 11
+
+
+woolBrown
+minecraft:wool - 12
+
+
+woolCyan
+minecraft:wool - 9
+
+
+woolGray
+minecraft:wool - 7
+
+
+woolGreen
+minecraft:wool - 13
+
+
+woolLightBlue
+minecraft:wool - 3
+
+
+woolLightGray
+minecraft:wool - 8
+
+
+woolLime
+minecraft:wool - 5
+
+
+woolMagenta
+minecraft:wool - 2
+
+
+woolOrange
+minecraft:wool - 1
+
+
+woolPink
+minecraft:wool - 6
+
+
+woolPurple
+minecraft:wool - 10
+
+
+woolRed
+minecraft:wool - 14
+
+
+woolWhite
+minecraft:wool - 0
+
+
+woolYellow
+minecraft:wool - 4
+
+
+workbench
+minecraft:crafting_table - 0
+minecraft:crafting_table - any
+tconstruct:tooltables - 0
+
+

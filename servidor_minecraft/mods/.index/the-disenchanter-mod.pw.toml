@@ -1,0 +1,17 @@
+name = "Disenchanter (The Disenchanter Mod)"
+filename = "disenchanter[1.12]1.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "0d76f6f183e8098be5d073e8fdaa0751bd3d5552"
+
+[update]
+[update.curseforge]
+file-id = 3519704
+project-id = 245769
+
+[update.do_updates]
+do_updates = "true"

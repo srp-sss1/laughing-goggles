@@ -1,0 +1,17 @@
+name = "Better Rerolling"
+filename = "Better Rolling-1.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "b9087b38b409edad017a9177ffb8d0084db7dba5"
+
+[update]
+[update.curseforge]
+file-id = 6294045
+project-id = 1214961
+
+[update.do_updates]
+do_updates = "true"

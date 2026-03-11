@@ -1,0 +1,17 @@
+name = "WaterSkin (Simple Difficulty)"
+filename = "waterskin-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "feb37c7b5fe4b518925abd06178a8b22bc420e25"
+
+[update]
+[update.curseforge]
+file-id = 3776463
+project-id = 619774
+
+[update.do_updates]
+do_updates = "true"

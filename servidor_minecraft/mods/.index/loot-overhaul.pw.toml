@@ -1,0 +1,17 @@
+name = "Loot Overhaul"
+filename = "LootOverhaul-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6f9acce9a6db679e96df56d2170d66f8e57cbc68"
+
+[update]
+[update.curseforge]
+file-id = 2711740
+project-id = 299389
+
+[update.do_updates]
+do_updates = "true"
