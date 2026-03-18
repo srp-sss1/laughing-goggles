@@ -1,0 +1,17 @@
+name = "Scape and Run: Parasites Extra"
+filename = "SRPExtra-1.10.7.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "7a4827f7212264afe07a1da0e7f74f29dfa18633"
+
+[update]
+[update.curseforge]
+file-id = 7603084
+project-id = 1140227
+
+[update.do_updates]
+do_updates = "true"

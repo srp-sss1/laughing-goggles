@@ -1,0 +1,17 @@
+name = "Better Survival mod"
+filename = "better_survival-1.5.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "90ab3ca8d37bb2cc98a784e9816054878b7cac5e"
+
+[update]
+[update.curseforge]
+file-id = 5729552
+project-id = 260360
+
+[update.do_updates]
+do_updates = "true"

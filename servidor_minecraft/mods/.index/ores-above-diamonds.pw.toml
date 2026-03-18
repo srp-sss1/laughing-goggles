@@ -1,0 +1,17 @@
+name = "Ores Above Diamonds"
+filename = "OresAboveDiamonds 1.12.2 v4.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "4bdeda5cd90690428f6377f140a35bab50392b56"
+
+[update]
+[update.curseforge]
+file-id = 2995950
+project-id = 351339
+
+[update.do_updates]
+do_updates = "true"

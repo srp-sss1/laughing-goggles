@@ -1,0 +1,247 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.GuiMainMenu
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = fancymenu_data/crux.png
+  action = texturizebackground
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 207
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 898a440f-6b53-4318-8212-981102d1e1251772747158261
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 169
+  action = deep_customization_element:title_screen_branding
+  actionid = 7e625dcc-c54b-4298-997b-23856926ab5d1772747158267
+  y = 331
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 454
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = a65fb08b-e005-4cce-a2cf-655f74b3a90f1772747158267
+  y = 353
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 444
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 00c473fc-85a2-4c61-a64e-1fda82b4086c1772747158267
+  y = 193
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 204
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 3f0e1311-540f-4783-82ce-48f8798991f11772747158268
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-left
+  splash_color = #ffff00
+  hidden = false
+  x = 208
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 0401c562-5f25-4e95-bb94-ceaa1c3667261772747158268
+  y = 141
+  height = 30
+}
+
+customization {
+  path = fancymenu_data/tittle2.png
+  orientation = top-left
+  delayappearanceseconds = 1.0
+  x = 45
+  width = 598
+  actionid = 9f9c6983-a629-4ec0-8cf5-b59728c43dac1772751704160
+  action = addtexture
+  y = 34
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 65
+}
+
+customization {
+  orientation = top-left
+  restartbackgroundanimations = true
+  delayappearanceseconds = 1.0
+  buttonaction = joinserver;france-february.gl.joinmc.link%btnaction_splitter_fm%
+  backgroundhovered = fancymenu_data/buttonh.png
+  label = Spieler server
+  loopbackgroundanimations = true
+  x = 342
+  width = 98
+  action = addbutton
+  actionid = 5e905f67-0236-45dc-8bd9-cf60bae25ccb1772753941817
+  y = 189
+  delayappearance = true
+  backgroundnormal = fancymenu_data/button.png
+  delayappearanceeverytime = false
+  height = 20
+}
+
+customization {
+  path = fancymenu_data/forge.png
+  orientation = top-left
+  delayappearanceseconds = 1.0
+  x = 18
+  width = 43
+  actionid = e0ce560b-1944-48b2-934d-88953f3591f61772754336402
+  action = addtexture
+  y = 323
+  delayappearance = true
+  delayappearanceeverytime = true
+  height = 39
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  actionid = ef9c7567-2205-4406-9501-27c280d5a9871772754958725
+  action = addtexture
+  y = 10
+  height = 100
+}
+
+customization {
+  path = fancymenu_data/simmerman2.png
+  orientation = top-left
+  x = 530
+  width = 67
+  actionid = 4571320f-2c7d-435f-8cde-3ae92b8259401772755140417
+  action = addtexture
+  y = 144
+  height = 100
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/buttonh.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/buttonh.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/buttonh.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/buttonh.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  action = hidebuttonfor
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = fancymenu_data/buttonh.png
+  backgroundnormal = fancymenu_data/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  seconds = 1.0
+  onlyfirsttime = false
+  action = hidebuttonfor
+}
+

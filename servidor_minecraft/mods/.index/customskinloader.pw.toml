@@ -1,0 +1,17 @@
+name = "CustomSkinLoader"
+filename = "CustomSkinLoader_ForgeV1-14.27.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/idMHQ4n2/versions/9IEAIelx/CustomSkinLoader_ForgeV1-14.27.jar"
+hash-format = "sha512"
+hash = "7a5563e9fa6259073b2d95c93e64edfee5e2f33e98f4693b8c4687ae2c9dd885477e8e38f0abd3626bce575c151b9449a04bc358d5edb82bf31171fb5554c848"
+
+[update]
+[update.modrinth]
+mod-id = "idMHQ4n2"
+version = "9IEAIelx"
+
+[update.do_updates]
+do_updates = "true"

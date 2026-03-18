@@ -1,0 +1,17 @@
+name = "Bettersurvival_tweak"
+filename = "bstweaker-1.0.2a.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "c6d5db2ee51869cbe8f783cfa91f35542d6f0601"
+
+[update]
+[update.curseforge]
+file-id = 7598217
+project-id = 1452691
+
+[update.do_updates]
+do_updates = "true"

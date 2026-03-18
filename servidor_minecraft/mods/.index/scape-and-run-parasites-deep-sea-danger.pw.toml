@@ -1,0 +1,17 @@
+name = "Scape and Run: Parasites Deep Sea Danger"
+filename = "SRPDeepSeaDanger-1.10.2.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6f1d91fc5a01d617437ab6a71ef940ba263af5e5"
+
+[update]
+[update.curseforge]
+file-id = 7601552
+project-id = 1268838
+
+[update.do_updates]
+do_updates = "true"

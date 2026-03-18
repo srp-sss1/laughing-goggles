@@ -1,0 +1,17 @@
+name = "Edit Mob Drops"
+filename = "editmobdrops-1.12.2-1.4.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/CE2Pi3IJ/versions/7jcuE4jD/editmobdrops-1.12.2-1.4.3.jar"
+hash-format = "sha512"
+hash = "a150a810d6dced4183fe16db3b534111e5ecbb2d38ee812961255c18e7e50308b9f9b1b601bba78be23f4c2fb13176aa40bd592394532fc465de1a2f22a7f3cb"
+
+[update]
+[update.modrinth]
+mod-id = "CE2Pi3IJ"
+version = "7jcuE4jD"
+
+[update.do_updates]
+do_updates = "true"

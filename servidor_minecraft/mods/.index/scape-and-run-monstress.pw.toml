@@ -1,0 +1,17 @@
+name = "Scape and Run: Monstress"
+filename = "SRMonstress-1.12.2v1.0.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "2789d6223841c2d16f33782dde433b13cecc5aa5"
+
+[update]
+[update.curseforge]
+file-id = 5804821
+project-id = 597555
+
+[update.do_updates]
+do_updates = "true"

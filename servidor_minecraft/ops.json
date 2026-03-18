@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "b2c02301-8acd-316d-b439-7c25a9a65ea0",
+    "name": "Dalviabee",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0a8eab00-85bd-3a0d-ad58-0d47fd439f70",
+    "name": "spieler",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1c53ca75-2af3-3177-bf4c-73b05a8c1c4c",
+    "name": "TPainterJL",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "df0ca6d2-8075-3170-bdae-e90cc331658c",
+    "name": "Archereste",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
